@@ -1,0 +1,1 @@
+Descomprimir assets en esta misma ruta

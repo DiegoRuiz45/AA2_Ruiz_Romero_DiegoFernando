@@ -1,0 +1,18 @@
+Guía para el despliegue
+
+1. descargar e instalar npm
+
+2. Instalar angular -- 
+npm install -g @angular/cli   
+
+3 instalar los paquete node modules
+npm install -g node-modules
+
+4. instalar boostrap
+npm install Bootstrap
+
+5 instalar sweetAlert2
+npm install sweetalert2
+
+6 instalar Fontawesome
+npm install @fortawesome/fontawesome-free  
